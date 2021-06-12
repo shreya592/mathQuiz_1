@@ -1,0 +1,42 @@
+body
+{
+	background: rgb(69,255,61);
+	background: linear-gradient(297deg, rgba(69,255,61,1) 0%, rgba(105,215,204,1) 40%, rgba(226,240,236,1) 66%, rgba(199,177,11,1) 88%);
+	font-family: 'Parisienne', cursive;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+button {
+	background: #c3e6cb;
+}
